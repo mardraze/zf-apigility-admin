@@ -33,7 +33,7 @@
         "zendframework/zend-http": "~2.3",
         "zendframework/zend-hydrator": "~1.0",
         "zendframework/zend-inputfilter": "^2.4.6",
-        "zendframework/zend-modulemanager": "~2.6",
+        "zendframework/zend-modulemanager": "~2.5",
         "zendframework/zend-mvc": "~2.6",
         "zendframework/zend-servicemanager": "~2.3",
         "zendframework/zend-stdlib": "~2.7",
